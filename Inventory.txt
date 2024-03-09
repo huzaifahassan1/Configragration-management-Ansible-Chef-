@@ -1,1 +1,4 @@
 
+# Inventory file holds the IP addresses of Destination servers.
+
+# Example: 172.16.0.22
